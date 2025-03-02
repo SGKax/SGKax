@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy SGKax  
 
-<!--
-**SGKax/SGKax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Si no lo intentas no lo lograrás. ⚡"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Messi](https://imgur.com/itxsuQw.png)
+
+---
+
+## Sobre mí 🚀
+Desarrollador en aprendizaje con interés en **HTML, CSS, JavaScript y C#**.
+Actualmente me encuentro estudiando y mejorando mis habilidades en programación.
+
+## 💻 Habilidades
+- C++
+- HTML
+- CSS
+- Python
+
+## 📬 Contacto
+- 🎮 Discord: **sgkax**
+- 📧 Correo: **none**
+- 🔗 [LinkedIn](#) (Pendiente)
+- 🐦 [X](#) (Pendiente)
+
+## 📊 Estadísticas de GitHub
+![SGKax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGKax&show_icons=true&theme=dark)
